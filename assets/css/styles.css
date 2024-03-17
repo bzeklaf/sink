@@ -1,5 +1,5 @@
 /*=============== GOOGLE FONTS ===============*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
 
 /*=============== VARIABLES CSS ===============*/
 :root {
@@ -26,14 +26,14 @@
   --container-color: hsl(30, 8%, 10%); */
 
   /*========== Font and typography ==========*/
-  --body-font: 'Poppins', sans-serif;
+  --body-font: "Gochi Hand", cursive;
   --biggest-font-size: 2rem;
-  --h1-font-size: 1.5rem;
-  --h2-font-size: 1.25rem;
-  --h3-font-size: 1rem;
-  --normal-font-size: .938rem;
-  --small-font-size: .813rem;
-  --smaller-font-size: .75rem;
+  --h1-font-size: 1.7rem;
+  --h2-font-size: 1.5rem;
+  --h3-font-size: 1.25rem;
+  --normal-font-size: 1.2rem;
+  --small-font-size: 1rem;
+  --smaller-font-size: 0.9rem;
 
   /*========== Font weight ==========*/
   --font-medium: 500;
